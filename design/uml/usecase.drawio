@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2023-09-22T00:10:55.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hcIdvgpeUunyo3ukYizb" version="21.8.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="495" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="18njVXeYOccRjIWwY-ke-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="18njVXeYOccRjIWwY-ke-0" target="18njVXeYOccRjIWwY-ke-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-0" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="30" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="18njVXeYOccRjIWwY-ke-1" target="18njVXeYOccRjIWwY-ke-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-1" value="Download Bot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="332.5" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="18njVXeYOccRjIWwY-ke-3" target="18njVXeYOccRjIWwY-ke-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-3" value="Set Wallet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="332.5" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="18njVXeYOccRjIWwY-ke-5" target="18njVXeYOccRjIWwY-ke-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-5" value="Set Settings&lt;br&gt;(Token list, Dex list, Transaction Fee, Attack Amount, etc)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="332.5" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="18njVXeYOccRjIWwY-ke-7" target="18njVXeYOccRjIWwY-ke-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-7" value="Deposit Funds for Trading" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="332.5" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="18njVXeYOccRjIWwY-ke-9" target="18njVXeYOccRjIWwY-ke-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-9" value="Start Bot&lt;br&gt;(Need to Pay Fee in this Step)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="332.5" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="18njVXeYOccRjIWwY-ke-15" target="18njVXeYOccRjIWwY-ke-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="18njVXeYOccRjIWwY-ke-15" target="18njVXeYOccRjIWwY-ke-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="18njVXeYOccRjIWwY-ke-15" target="18njVXeYOccRjIWwY-ke-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="352.5" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-19" value="Stop Bot Before Period is Ended" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="332.5" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-20" value="Check Attack List&lt;br&gt;&lt;br&gt;See statistics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18njVXeYOccRjIWwY-ke-21" value="Withdraw&amp;nbsp; Funds&lt;br&gt;After Stop Bot or Period is Ended" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
